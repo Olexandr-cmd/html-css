@@ -1,0 +1,152 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header {
+    height: 50px;
+    background-color: #F9F9F9;
+    box-sizing: border-box;
+}
+.header_menu{
+    display: flex;
+    justify-content: center;
+}
+.menu_1{
+    display: flex;
+    margin: 15px;
+}
+.nav_item{
+    margin: 0 10px;
+}
+.nav_item a {
+    font-weight: 700;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #292929;
+    text-decoration: none;
+}
+.span_1{
+    color: darkred;
+}
+.span_2{
+    color: darkgray;
+}
+.menu{
+    background-color: darkred;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.menu_middle a{
+    color: white;
+    text-decoration: none;
+}
+.menu_middle{
+    height: 100px;
+    display:flex;
+    align-items: center;
+    color: #F9F9F9;
+    justify-content: space-around;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.name{
+    margin: 300px;
+}
+h1{
+    font-size: 30px;
+}
+.mid_2{
+    font-size: 10px;
+    margin-left: 45px;
+}
+.btn{
+    background-color: crimson;
+    border-radius: 25px;
+    padding: 10px 15px;
+    font-size: 12px;
+    border: 3px solid white;
+    box-sizing: border-box;
+    position: relative;
+    cursor: pointer;
+}
+section{
+    height: 50px;
+    background-color: #F9F9F9;
+    border-bottom: 1px solid darkgray ;
+}
+.bot_menu{
+    display: flex;
+    justify-content: center;
+}
+.menu_2{
+    display: flex;
+    margin: 15px;
+}
+.nav_item_2{
+    margin: 0 10px;
+    cursor: pointer;
+    font-size: 18px;
+}
+.news_menu{
+    display: flex;
+    height: 600px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+}
+.img_1{
+    height: 200px;
+    width: 350px;
+}
+.img_2{
+    height: 400px;
+    width: 600px;
+ }
+p{
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+.news_one{
+    padding-bottom: 10px;
+}
+.news_two{
+    padding-bottom: 10px;
+}
+.left_menu{
+    padding-right: 20px;
+}
+.news_three{
+    padding-right: 20px;
+}
+.text_1{
+    padding-top: 10px;
+    border-bottom: 1px solid darkgrey;
+}
+.text_2{
+    padding-top: 20px;
+    font-size: 14px;
+    border-bottom: 1px solid darkgrey;
+}
+.text_3{
+    font-size: 12px;
+    padding-top: 30px;
+}
+.text_4{
+    font-size: 25px;
+    padding-top: 10px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.text_5 {
+    padding-top: 15px;
+    font-size: 12px;
+}
+a{
+    text-decoration: none;
+    color: #292929;
+}
+.span_3{
+    color: grey;
+}
